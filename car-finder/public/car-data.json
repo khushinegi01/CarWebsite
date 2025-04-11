@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "brand": "BMW",
+      "model": "3 Series",
+      "fuelType": "Electric",
+      "price": 1526553,
+      "seatingCapacity": 7,
+      "image": "https://topelectricsuv.com/wp-content/uploads/2022/04/BMW-i3-electric-sedan-China-model.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "model": "Corolla",
+      "fuelType": "Hybrid",
+      "price": 716926,
+      "seatingCapacity": 5,
+      "image": "https://di-enrollment-api.s3.amazonaws.com/toyota/models/2022/corolla_hybrid/colors/super_white.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Kia",
+      "model": "Sonet",
+      "fuelType": "Electric",
+      "price": 1841615,
+      "seatingCapacity": 6,
+      "image": "https://imgeng.jagran.com/images/2023/aug/kia%20sonet%201693298991790.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Honda",
+      "model": "Civic",
+      "fuelType": "Diesel",
+      "price": 3763286,
+      "seatingCapacity": 7,
+      "image": "https://www.motortrend.com/uploads/2022/09/2023-Honda-Civic-Sport-HPD-exterior-6.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Ford",
+      "model": "EcoSport",
+      "fuelType": "Diesel",
+      "price": 1836698,
+      "seatingCapacity": 4,
+      "image": "https://media.zigcdn.com/media/content/2015/Oct/2015-new-ford-ecosport-launched-zigwheels-07102015-m_720x540.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Kia",
+      "model": "Sonet",
+      "fuelType": "Diesel",
+      "price": 2612369,
+      "seatingCapacity": 6,
+      "image": "https://media.zigcdn.com/media/model/2023/Dec/front-1-4-left-1894229716_930x620.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Honda",
+      "model": "CR-V",
+      "fuelType": "Electric",
+      "price": 1661017,
+      "seatingCapacity": 7,
+      "image": "https://www.legendleasing.com/imagetag/464/main/l/New-2021-Honda-CR-V-EX-L.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Ford",
+      "model": "F-150",
+      "fuelType": "Hybrid",
+      "price": 1246184,
+      "seatingCapacity": 6,
+      "image": "https://www.motorbiscuit.com/wp-content/uploads/2020/09/2021-F-150-1024x683.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Hyundai",
+      "model": "Creta",
+      "fuelType": "Hybrid",
+      "price": 1249429,
+      "seatingCapacity": 5,
+      "image": "https://img-ik.cars.co.za/images/2016/10/HyundaiCretaFD/tr:n-news_1200x/creta04.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Kia",
+      "model": "Carnival",
+      "fuelType": "Electric",
+      "price": 3927394,
+      "seatingCapacity": 7,
+      "image": "https://cdn.jdpower.com/JDP_2024%20Kia%20EV9%20GT-Line%20Front%20Quarter%20View%20Action.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "BMW",
+      "model": "X1",
+      "fuelType": "Diesel",
+      "price": 1752321,
+      "seatingCapacity": 4,
+      "image": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2022/09/2023-BMW-X1-xDrive23i-03.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Toyota",
+      "model": "Corolla",
+      "fuelType": "Hybrid",
+      "price": 3208385,
+      "seatingCapacity": 7,
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2022/12/toyota-corolla-hybrid-1.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Honda",
+      "model": "City",
+      "fuelType": "Petrol",
+      "price": 2327216,
+      "seatingCapacity": 6,
+      "image": "https://i.ikman-st.com/honda-city-rs-2025-for-sale-gampaha-1/488950ad-25fe-418e-b887-972a80a78918/1200/630/fitted.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Toyota",
+      "model": "Fortuner",
+      "fuelType": "Electric",
+      "price": 1624127,
+      "seatingCapacity": 7,
+      "image": "https://th.bing.com/th/id/OIP.ljwaYYtfoBVdnB2aNvTWNAHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 15,
+      "brand": "Mercedes",
+      "model": "C-Class",
+      "fuelType": "Petrol",
+      "price": 2795924,
+      "seatingCapacity": 7,
+      "image": "https://www.topgear.com/sites/default/files/images/news-article/carousel/2021/02/8a720e3425a4076f8ee5acdcb8514f68/21c0053_001.jpg"
+    },
+    {
+      "id": 16,
+      "brand": "BMW",
+      "model": "3 Series",
+      "fuelType": "Electric",
+      "price": 3673830,
+      "seatingCapacity": 5,
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2022/05/2022-BMW-3er-Facelift-G20-LCI-M-Sport-Pro-Brooklyn-Grau-04-750x500.jpg"
+    },
+    {
+      "id": 17,
+      "brand": "Hyundai",
+      "model": "i20",
+      "fuelType": "Petrol",
+      "price": 1407720,
+      "seatingCapacity": 6,
+      "image": "https://d1ek71enupal89.cloudfront.net/images/blocks_png/HYUNDAI/I20/5DR/70HyuI20SeCon5drWhiFR2_800.jpg"
+    },
+    {
+      "id": 18,
+      "brand": "Kia",
+      "model": "Carnival",
+      "fuelType": "Hybrid",
+      "price": 1119783,
+      "seatingCapacity": 7,
+      "image": "https://cdn.jdpower.com/JDPA_2022%20Kia%20Carnival%20Blue%20Front%20Quarter%20View%201.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "Toyota",
+      "model": "Camry",
+      "fuelType": "Hybrid",
+      "price": 1690855,
+      "seatingCapacity": 6,
+      "image": "https://www.2025toyota.com/wp-content/uploads/2023/06/2025-Toyota-Camry-Exterior.png"
+    },
+    {
+      "id": 20,
+      "brand": "Chevrolet",
+      "model": "Cruze",
+      "fuelType": "Petrol",
+      "price": 570689,
+      "seatingCapacity": 5,
+      "image": "https://th.bing.com/th/id/OIP.ZyNTPwo41M04ew6Shr2LhAHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 21,
+      "brand": "Ford",
+      "model": "F-150",
+      "fuelType": "Petrol",
+      "price": 1911702,
+      "seatingCapacity": 5,
+      "image": "https://images.customwheeloffset.com/web-compressed/2563478-1-2022-f-150-ford-xl-rough-country-leveling-kit-fuel-rebel-6-gray-black.jpg"
+    },
+    {
+      "id": 22,
+      "brand": "Nissan",
+      "model": "Kicks",
+      "fuelType": "Diesel",
+      "price": 1695761,
+      "seatingCapacity": 6,
+      "image": "https://media.ed.edmunds-media.com/nissan/kicks/2024/oem/2024_nissan_kicks_4dr-hatchback_sr_fq_oem_1_1600.jpg"
+    },
+    {
+      "id": 23,
+      "brand": "Audi",
+      "model": "Q5",
+      "fuelType": "Petrol",
+      "price": 2114183,
+      "seatingCapacity": 5,
+      "image": "https://ik.imagekit.io/girnar/sayaratbay/large/gallery/exterior/2/2102/audi-q5-2025-front-cross-side-view-339712.jpg"
+    },
+    {
+      "id": 24,
+      "brand": "Honda",
+      "model": "CR-V",
+      "fuelType": "Diesel",
+      "price": 2167938,
+      "seatingCapacity": 6,
+      "image": "https://www.motortrend.com/uploads/sites/10/2017/11/2016-honda-crv-touring-2wd-suv-angular-front.png"
+    },
+    {
+      "id": 25,
+      "brand": "Audi",
+      "model": "Q5",
+      "fuelType": "Petrol",
+      "price": 3768605,
+      "seatingCapacity": 4,
+      "image": "https://th.bing.com/th/id/OIP.rwhJubHHO16EycaLNuQVUAHaEj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 26,
+      "brand": "BMW",
+      "model": "X5",
+      "fuelType": "Diesel",
+      "price": 997301,
+      "seatingCapacity": 7,
+      "image": "https://th.bing.com/th/id/OIP.7jrntFMZMvoExoUZfRbo5QHaEo?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 27,
+      "brand": "Hyundai",
+      "model": "Creta",
+      "fuelType": "Petrol",
+      "price": 2010968,
+      "seatingCapacity": 5,
+      "image": "https://media.zigcdn.com/media/model/2024/Jan/hyundai-creta-2024_600x400.jpg"
+    },
+    {
+      "id": 28,
+      "brand": "BMW",
+      "model": "X1",
+      "fuelType": "Electric",
+      "price": 3694085,
+      "seatingCapacity": 5,
+      "image": "https://allabtengg.com/wp-content/uploads/2023/05/sii-1024x678.jpg"
+    },
+    {
+      "id": 29,
+      "brand": "Ford",
+      "model": "Mustang",
+      "fuelType": "Diesel",
+      "price": 1376997,
+      "seatingCapacity": 7,
+      "image": "https://www.carscoops.com/wp-content/uploads/2019/04/7b78edbb-ford-mustang-new-york-auto-show-.jpg"
+    },
+    {
+      "id": 30,
+      "brand": "Chevrolet",
+      "model": "Trailblazer",
+      "fuelType": "Electric",
+      "price": 636679,
+      "seatingCapacity": 7,
+      "image": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/07/2024-chevrolet-blazer-ev-1920-x-1080-px.jpg"
+    }
+  ]
